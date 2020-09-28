@@ -10,3 +10,8 @@
 
 3. Por último trate os dados recebidos pelo formulário como quiser. No arquivo **paycontroller** localizado em ```src/controllers/payController```
 
+## Oberservações:
+   O design e os scripts foram fornecidos pelo próprio mercadopago, apenas simplifiquei o funcionamento, pois tive problemas com a implementação desse checkout em um projeto.
+
+## Siga nois no insta:
+**@seniorcode_**
